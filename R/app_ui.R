@@ -11,7 +11,8 @@ app_ui <- function(request) {
     # Your application UI logic
     fluidPage(
       h1("Hello!  YAY!"),
-      h2("Welcome to my app")
+      h2("Welcome to my app"),
+      my_func()
     )
   )
 }
