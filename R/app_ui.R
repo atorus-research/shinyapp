@@ -12,6 +12,7 @@ app_ui <- function(request) {
     fluidPage(
       h1("Hello!  YAY!"),
       h2("Welcome to my app"),
+      h3("This is a change"),
       my_func()
     )
   )
