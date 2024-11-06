@@ -1,0 +1,13 @@
+name: shinyapp
+title: shinyapp
+username: mike.stackhouse
+account: mike.stackhouse
+server: connect-dev.atorusresearch.com
+hostUrl: https://connect-dev.atorusresearch.com/__api__
+appId: 42
+bundleId: 95
+url: https://connect-dev.atorusresearch.com/content/9878070d-f26c-4e0e-a84d-235baf59ecae/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: dev/01_start.R|dev/02_dev.R|dev/03_deploy.R|dev/run_dev.R
